@@ -13,7 +13,7 @@
   
  <div>
    <p align = center>
-   <a href="https://www.linkedin.com/in/jo%C3%A3o-andrade-580270217/" target="_blank">
+   <a href="https://www.linkedin.com/in/joao-andrade-/" target="_blank">
      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
    <a href = "mailto:joao.felixandrade1201@gmail.com">
      <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
