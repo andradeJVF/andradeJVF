@@ -21,7 +21,5 @@
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white""></a>
    </p>
   </div>
-
-  <p align = center>
+                                                                                                                    
   ![Snake animation](https://github.com/andradeJVF/andradeJVF/blob/output/github-contribution-grid-snake.svg)
-  </p>
