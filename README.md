@@ -1,6 +1,6 @@
 ## Olá! Eu sou o João Andrade
 
-- 🌱 Estudando Java
+- 🌱 Estudando Java, Spring Boot, JavaScript, Docker, Testes Unitários, entre outros; 
 - 📫 Contate-me no e-mail: joao.felixandrade1201@gmail.com
 - 😄 Pronouns: ele/dele
 
