@@ -22,6 +22,6 @@
    </p>
   </div>
 
-  <div align = center>
+  <p align = center>
   ![Snake animation](https://github.com/andradeJVF/andradeJVF/blob/output/github-contribution-grid-snake.svg)
-  </div>
+  </p>
